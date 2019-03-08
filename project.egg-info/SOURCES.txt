@@ -1,0 +1,17 @@
+README.rst
+setup.py
+example/__init__.py
+example/items.py
+example/pipelines.py
+example/settings.py
+example/关于分布式的使用总结.py
+example/spiders/__init__.py
+example/spiders/dmoz.py
+example/spiders/mycrawler_redis.py
+example/spiders/myspider_redis.py
+example/spiders/task.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
